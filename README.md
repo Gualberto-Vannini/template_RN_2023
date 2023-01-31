@@ -8,9 +8,10 @@ https://user-images.githubusercontent.com/22340454/215835922-73b9ded9-3ce3-4878-
 
 This is a practical ready-to-go app skeleton 2023.
 The propose for this repository is:
-   - Having always a fresh app skeleton
+   - Having a fresh app skeleton
+   - Navigation Stack already available 
    - Possibilty to test different strategy with a clean app with no errors and totally upgraded.
-   - Customizable Theme installed
+   - Customizable Theme wrapping the whole app
    - Navigation Bottom Bar
    - Redux sample
    - Axios sample call
