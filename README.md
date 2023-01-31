@@ -1,6 +1,9 @@
 # Redux Skeleton App
 
-https://user-images.githubusercontent.com/22340454/157483868-b5f5208d-0376-4926-8411-e4505e3ea922.mp4
+
+
+https://user-images.githubusercontent.com/22340454/215835922-73b9ded9-3ce3-4878-b121-ac2d8fd1fb8b.mp4
+
 
 
 This is a practical ready-to-go app skeleton 2023.
