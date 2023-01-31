@@ -1,4 +1,4 @@
-# Redux Skeleton App
+# TEMPLATE RN 2023
 
 
 
