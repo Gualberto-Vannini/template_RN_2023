@@ -17,6 +17,7 @@ The propose for this repository is:
    - Axios sample call
    - ReduxToolKit sample
    - Custom Fonts
+   - react-native-rename 
 
 
 ## Packages installed:
@@ -59,7 +60,10 @@ Check if Redux is creating Circular Dependencies
 - `yarn dpdm ./src/* --circular --exit-code circular:1 --warning=false`
 
 [STYLED COMPONENTS](https://github.com/styled-components/styled-components)
-Style your component with a custom theme app wrapper
+- Style your component with a custom theme app wrapper
+
+[REACT-NATIVE-RENAME](https://github.com/junedomingo/react-native-rename)
+- Rename the whole codebase just executing `npx react-native-rename "YOUR_PROJECT_NAME"`
 
 ## Tools
 
